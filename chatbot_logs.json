@@ -1,0 +1,248 @@
+[
+    {
+        "timestamp": "2025-01-20T10:42:29.622477",
+        "query": "Why was my credit card charged twice?",
+        "response": "Two credit card stolen last night. One one debit charge done last night charge amount of $1,000. Two credit cards stolen. One debit card stolen.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9846754670143127
+        },
+        "entities": [
+            [
+                "two",
+                "CARDINAL"
+            ],
+            [
+                "last night",
+                "TIME"
+            ],
+            [
+                "last night",
+                "TIME"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T10:42:42.290053",
+        "query": "Explain why my refund is delayed.",
+        "response": " refund told wait day money refund back saving account waited still receive money called boa said receive money said already refund money back account.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9938639402389526
+        },
+        "entities": [
+            [
+                "day",
+                "DATE"
+            ],
+            [
+                "boa",
+                "PERSON"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T10:42:53.467701",
+        "query": "What is the process to dispute a charge?",
+        "response": "A former U.S. Marine was arrested on suspicion of sexually assaulting a woman. The charges were later dropped and the woman was cleared of all charges.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9874009490013123
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T10:43:07.122163",
+        "query": "How do I resolve an issue with a retail banking account?",
+        "response": "CNN.com is unable to link bank account account account to account linked to CNN.com. Please email us at jennifer.linning@cnn.com with any photos or video of you.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9995288848876953
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T10:43:22.527638",
+        "query": "What should I do about unauthorized transactions?",
+        "response": "Fraudulent unauthorized inquires report. fraudulent unauthorized inquiries report. fraudulent unauthorized inquiries report. Fraudulent unauthorized Inquiries Report. fraudulently unauthorized Inquires Report.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9986843466758728
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T10:43:34.091647",
+        "query": "Why did my payment history disappear from the credit report?",
+        "response": "U.S. credit information reported delinquent paid a year ago. Credit information reported delinquency paid year ago: $1.2 billion.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9906863570213318
+        },
+        "entities": [
+            [
+                "year ago",
+                "DATE"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T11:24:35.597728",
+        "query": "Why was my credit card charged twice?",
+        "response": "Two credit card stolen last night. One one debit charge done last night charge amount of $1,000. Two credit cards stolen. One debit card stolen.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9846754670143127
+        },
+        "entities": [
+            [
+                "two",
+                "CARDINAL"
+            ],
+            [
+                "last night",
+                "TIME"
+            ],
+            [
+                "last night",
+                "TIME"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T11:24:47.407474",
+        "query": "Explain why my refund is delayed.",
+        "response": " refund told wait day money refund back saving account waited still receive money called boa said receive money said already refund money back account.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9938639402389526
+        },
+        "entities": [
+            [
+                "day",
+                "DATE"
+            ],
+            [
+                "boa",
+                "PERSON"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T11:25:00.864099",
+        "query": "What is the process to dispute a charge?",
+        "response": "A former U.S. Marine was arrested on suspicion of sexually assaulting a woman. The charges were later dropped and the woman was cleared of all charges.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9874009490013123
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T11:25:19.951061",
+        "query": "How do I resolve an issue with a retail banking account?",
+        "response": "CNN.com is unable to link bank account account account to account linked to CNN.com. Please email us at jennifer.linning@cnn.com with any photos or video of you.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9995288848876953
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T11:25:36.246447",
+        "query": "What should I do about unauthorized transactions?",
+        "response": "Fraudulent unauthorized inquires report. fraudulent unauthorized inquiries report. fraudulent unauthorized inquiries report. Fraudulent unauthorized Inquiries Report. fraudulently unauthorized Inquires Report.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9986843466758728
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T11:25:48.014938",
+        "query": "Why did my payment history disappear from the credit report?",
+        "response": "U.S. credit information reported delinquent paid a year ago. Credit information reported delinquency paid year ago: $1.2 billion.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9906863570213318
+        },
+        "entities": [
+            [
+                "year ago",
+                "DATE"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T11:26:13.745495",
+        "query": "Why did Comenity Bank change my credit limit without notifying me?",
+        "response": " credit report changed since got card incorrect asked information wasnt notified agreement didnt information caused utilization change xxxxredit score lower point rep wasnt able answer question bill always paid time month balance reward program lowering credit limit automatically disqualify taking advantage reward discrimination letter email notifying change changing credit limit charged lowered.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.99678635597229
+        },
+        "entities": [
+            [
+                "comenity bank",
+                "ORG"
+            ],
+            [
+                "bill bal",
+                "PERSON"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T11:26:29.780396",
+        "query": "Can you help me with fraudulent charges on my Wells Fargo debit card?",
+        "response": "Well fargo credit card service card went make payment credit card saw card balance extremely high four fraudulent charge authorize two back back charge respectively another charge target finally charge vendor say well fargo payment assistance program credit card payment still work.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9965329170227051
+        },
+        "entities": [
+            [
+                "four",
+                "CARDINAL"
+            ],
+            [
+                "two",
+                "CARDINAL"
+            ],
+            [
+                "month",
+                "DATE"
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-01-20T11:26:50.223583",
+        "query": "What should I do if my mortgage account was marked as forbearance incorrectly?",
+        "response": "Currently mortgage freedom mortgage requested put forbearance due beginning began requesting taken forbearance called countless time made payment brought account current still removed forbearance. Multiple request told purposely kept forbearance protect point still forbearance continuously told take nothing happening absolutely unacceptable.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9966089725494385
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T11:27:07.552840",
+        "query": "How do I handle a dispute with Capital One about a canceled order?",
+        "response": " capitalone charged back twice disputed charge occurred due to dissatisfaction merchant contacted capitalone dispute amount. merchant requested information provided without giving mr courtesy phone call letter charged back amount twice.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9761835932731628
+        },
+        "entities": []
+    },
+    {
+        "timestamp": "2025-01-20T11:27:24.388310",
+        "query": "Why was I charged late fees even though I paid my credit card bill on time?",
+        "response": " account showing late payment charge is taken from a bank account. The account was used to pay a late payment to a bank. The bank has since taken the account back.",
+        "sentiment": {
+            "label": "NEGATIVE",
+            "score": 0.9699031710624695
+        },
+        "entities": []
+    }
+]
