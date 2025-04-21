@@ -44,8 +44,8 @@ To run this project, you need to install the following Python packages:
 ## How to Run:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Udit11/2025-Smart-Document-Assistant-for-Financial-Domain.git
-   cd 2025-Smart-Document-Assistant-for-Financial-Domain
+   git clone https://github.com/Udit11/Smart-Document-Assistant-for-Financial-Domain.git
+   cd Smart-Document-Assistant-for-Financial-Domain
 
 2. Install the dependencies:
    pip install -r requirements.txt
